@@ -1,0 +1,12 @@
+.env
+
+hermes_db/*
+!hermes_db/.gitkeep
+
+requests/*
+!requests/.gitkeep
+
+resources/*
+!resources/.gitkeep
+!resources/mask_square_f.png
+!resources/extractor.py
