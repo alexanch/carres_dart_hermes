@@ -5,7 +5,7 @@ This **Telegram bot** uses **AI-powered visual search** to help you find and ret
 ## Demo
 
 Here is a quick demo of how it works:
-<br>
+<br />
 ![Project Demo](resources/output_adapted.gif)
 
 ## Features
