@@ -3,21 +3,9 @@
 This **Telegram bot** uses **AI-powered visual search** to help you find and retrieve reference scarves from the *Carres D'Art V* catalog. Upload a scarf image, and the bot will analyze it, compare it with the catalog, and provide similar or matching designs. Whether you're a fashion enthusiast or a collector, this bot makes it easy to explore the world of iconic scarves.
 
 
-Here is a demo of the project:
-
-# My Project
-
-## Project Description
-
-This project does X, Y, and Z. It's an awesome project that demonstrates how to do cool stuff.
-
-## Demo
-
 Here is a quick demo of how it works:
 <br>
-<div align="center">
-  ![Project Demo](media/output_adapted.gif)
-</div>
+![Project Demo](media/output_adapted.gif)
 
 ## Features
 
