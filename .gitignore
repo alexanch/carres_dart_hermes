@@ -6,7 +6,11 @@ hermes_db/*
 requests/*
 !requests/.gitkeep
 
+logs/*
+!logs/.gitkeep
+
 resources/*
 !resources/.gitkeep
+!resources/output_adapted.gif
 !resources/mask_square_f.png
 !resources/extractor.py
